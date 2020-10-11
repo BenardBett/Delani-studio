@@ -6,3 +6,11 @@
     text-align: center;
     color:white;
 }
+.about{
+    text-align: center;
+}
+.services{
+    text-align: center;
+    background-image: url(../images/s_image.jpg);
+    color: white;
+}
