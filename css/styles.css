@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+.home{
+    background-image: url(../images/h_img.jpg);
+    text-align: center;
+    color:white;
+}
