@@ -31,7 +31,31 @@ h2{
 #hidden-p{
     text-align: center;
 }
-.contact{
+.contacts{
+    background-image: url(../images/c_image.jpg);
     text-align: center;
-    background-color: slategray;
+    /* background:transparent; */
+}
+input[type=text],input[type=email], textarea{
+    background:transparent;
+    color: white;
+    
+}
+.text2 textarea{
+    background:transparent;
+    color: white;
+}
+.port1,.port2,.port3,.port4,.port5,.port6,.port7,.port8{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    opacity: 0.4;
+    position: absolute;
+    top: 0.0em;
+    display: none;
+    color: black;
+    font-size: 20px;
+    padding-top: 30%;
+    border:3px ,solid green;
+    cursor: pointer;
 }
